@@ -1,2 +1,2 @@
 # Analysising proudct and tips
- Analysising and Data Visualiztion for product data and tibs data  
+Analyze gapminder , tibs and proudct dataset , provide data visualization and provide dashboard using dash that explore and support your analytics
