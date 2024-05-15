@@ -1,2 +1,2 @@
 # Analysising proudct and tips
- Analysising and Data Visualiztion for product data and tibs data  
+ Analysising , Data Visualiztion and Dashboard for product data and tibs data  
